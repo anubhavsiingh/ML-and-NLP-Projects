@@ -3,7 +3,7 @@ Flask-SQLAlchemy==2.4.3
 Jinja2==2.11.1
 nltk==3.5
 itsdangerous==1.1.0
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pickleshare==0.7.5
 regex==2020.6.8
